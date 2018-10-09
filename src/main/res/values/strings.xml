@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LodAddplaction</string>
+    <string name="hello_world">Hello, mobsters %1.d</string>
+    <string name="search_for_requests">Search for requests</string>
+</resources>
